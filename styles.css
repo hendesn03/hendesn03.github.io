@@ -1,0 +1,148 @@
+body{
+  margin: 0;
+  padding: 0;
+  background: url(cincyblackandwhite.jpg) no-repeat;
+  background-size: cover;
+}
+
+.profile{
+  width:1000px;
+  background: rgba(0, 0, 0, 0.7);
+  padding: 40px;
+  text-align: center;
+  margin: auto;
+  margin-top: 5%;
+  color: white;
+  font-family: sans-serif;
+}
+.machu{
+  border-radius: 25%;
+  width: 200px
+}
+.profile h3{
+  font-size: 20px;
+  letter-spacing: 3px;
+}
+
+.profile p{
+  text-align: justify;
+}
+
+ul{
+  margin: 0;
+  padding: 0;
+}
+
+.profile li{
+  display: inline-block;
+  margin: 6px;
+  list-style: none;
+}
+
+.profile li{
+  color: white;
+  font-size: 60px
+}
+
+.chicago{
+  margin: 0;
+  padding: 0;
+  background: url(chicagobandw.jpeg) no-repeat;
+  background-size: cover;
+}
+
+
+.kelloggeducation{
+  width:1000px;
+  background: rgba(0, 0, 0, 0.7);
+  padding: 40px;
+  text-align: left;
+  margin: auto;
+  margin-top: 5%;
+  color: white;
+  font-family: sans-serif;
+}
+
+
+.kellogg{
+  width: 400px;
+  height: 300px;
+  padding: 10px;
+  border-radius: 20%;
+}
+
+.kelloggeducation h1{
+  font-size: 40px;
+  padding: 10px;
+  text-align: center;
+}
+
+.kelloggeducation h2{
+  font-size: 20px;
+  text-align: left;
+}
+
+/*.upenneducation {
+    width:1000px;
+    background: rgba(0, 0, 0, 0.7);
+    padding: 40px;
+    text-align: left;
+    margin: auto;
+    margin-top: 5%;
+    color: white;
+    font-family: sans-serif;
+  }*/
+
+  .upenn{
+    width: 410px;
+    height: 300px;
+    padding: 10px;
+    border-radius: 25%;
+  }
+
+  /*.upenneducation h1{
+    font-size: 40px;
+    padding: 10px;
+    text-align: left;
+  }*/
+  .denver{
+    margin: 0;
+    padding: 0;
+    background: url(denverbandw.jpg) no-repeat;
+    background-size: cover;
+
+}.travelportwork{
+  width:1000px;
+  background: rgba(0, 0, 0, 0.7);
+  padding: 40px;
+  text-align: left;
+  margin: auto;
+  margin-top: 5%;
+  color: white;
+  font-family: sans-serif;
+}
+
+
+.travelport{
+  width: 400px;
+  height: 300px;
+  padding: 10px;
+  border-radius: 25%;
+}
+
+.travelportwork h1{
+  font-size: 40px;
+  padding: 10px;
+  text-align: center;
+}
+
+.travelportwork h2{
+  font-size: 20px;
+}
+
+.jpmorgan{
+  width: 420px;
+  height: 300px;
+  padding: 10px;
+  border-radius: 25%;
+}
